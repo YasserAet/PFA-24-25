@@ -15,56 +15,56 @@ const floorPlans = [
     id: "floor0",
     title: "Ground Floor",
     description: "Stylish modern studio with open concept living space",
-    image: "/images/3drenders/3dGroundFloor.png",
+    image: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/3drenders/3dGroundFloor.png",
     area: "485.82 m²"
   },
   {
     id: "floor1",
     title: "First Floor",
     description: "Spacious one bedroom with balcony and modern amenities",
-    image: "/images/3drenders/3dMiddleFloors.png",
+    image: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/3drenders/3dMiddleFloors.png",
     area: "485.92 m²"
   },
   {
     id: "floor2",
     title: "Second Floor",
     description: "Spacious one bedroom with balcony and modern amenities",
-    image: "/images/3drenders/3dMiddleFloors.png",
+    image: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/3drenders/3dMiddleFloors.png",
     area: "485.92 m²"
   },
   {
     id: "floor3",
     title: "Third Floor",
     description: "Spacious one bedroom with balcony and modern amenities",
-    image: "/images/3drenders/3dMiddleFloors.png",
+    image: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/3drenders/3dMiddleFloors.png",
     area: "485.92 m²"
   },
   {
     id: "floor4",
     title: "Fourth Floor",
     description: "Luxury two bedroom with panoramic views and premium finishes",
-    image: "/images/3drenders/3dMiddleFloors.png",
+    image: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/3drenders/3dMiddleFloors.png",
     area: "485.92 m²"
   },
   {
     id: "floor5",
     title: "Fifth Floor",
     description: "Luxury two bedroom with panoramic views and premium finishes",
-    image: "/images/3drenders/3dMiddleFloors.png",
+    image: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/3drenders/3dMiddleFloors.png",
     area: "485.92 m²"
   },
   {
     id: "floor6",
     title: "Penthouse Floor",
     description: "Luxury two bedroom with panoramic views and premium finishes",
-    image: "/images/3drenders/3dMiddleFloors.png",
+    image: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/3drenders/3dMiddleFloors.png",
     area: "485.92 m²"
   },
   {
     id: "floor7",
     title: "Terrace Floor",
     description: "Luxury two bedroom with panoramic views and premium finishes",
-    image: "/images/3drenders/3dTerrace.png",
+    image: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/3drenders/3dTerrace.png",
     area: "142.59 m²"
   }
 ];

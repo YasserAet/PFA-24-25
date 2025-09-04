@@ -418,7 +418,7 @@ function getCategoryStyle(category: keyof typeof styles, defaultColor: string) {
 
 // Update the PanoramaSphere component to include proximity detection
 function PanoramaSphere({ hotspots }: { hotspots: Array<{ id: string; title: string; description: string; yaw: number; pitch: number; category: string; duration?: string; durationMinutes?: number; lineHeight?: number }> }) {
-  const texture = useTexture("/Panorama.jpg");
+  const texture = useTexture("https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/Panorama.jpg");
   const { scene } = useThree();
 
   // Process hotspots to avoid overlapping titles

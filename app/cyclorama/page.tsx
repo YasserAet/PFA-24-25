@@ -714,7 +714,7 @@ function PinSpotlight({ position, active }: { position: [number, number, number]
 
 // Panorama sphere with hotspots
 function PanoramaSphere({ hotspots, activePin, onPinClick }: { hotspots: Array<{ id: string; title: string; yaw: number; pitch: number; category: string; durationInMinutes: number | null; description: string }>, activePin: string, onPinClick: (pinName: string) => void }) {
-  const texture = useTexture("/Panorama.jpg")
+  const texture = useTexture("https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/Panorama.jpg")
   const keyPin = hotspots.find(h => h.title === "KEY 1 BUILDING")
   const activeHotspot = hotspots.find(h => h.title === activePin)
   const [initialized, setInitialized] = useState(false)

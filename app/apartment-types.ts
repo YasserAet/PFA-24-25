@@ -35,7 +35,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "exterior-main",
       title: "Building Exterior View",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/BP.jpg",
+      url: "/images/panoramas/BP.jpg",
       hotspots: [
       ]
     }
@@ -44,7 +44,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "kitchen_living_room",
       title: "KITCHEN & LIVING ROOM",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/TP(1).jpg",
+      url: "/images/panoramas/TP(1).jpg",
       hotspots: [
         { roomId: "lobby", label: "Lobby", position: "-4.9 -0.1 -1.1", rotation: "0 0 0" },
         { roomId: "laundry_room", label: "Laundry", position: "-4 -0.2 -2.9", rotation: "0 0 0" },
@@ -54,7 +54,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "master_room",
       title: "MASTER ROOM",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/TP(2).jpg",
+      url: "/images/panoramas/TP(2).jpg",
       hotspots: [
         { roomId: "bathroom", label: "Bathroom", position: "2.2 -3 -3.4", rotation: "0 0 0" },
         { roomId: "kitchen_living_room", label: "Kitchen & Living", position: "2.8 0.1 -4.2", rotation: "0 0 0" },
@@ -63,7 +63,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "lobby",
       title: "LOBBY",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/TP(6).jpg",
+      url: "/images/panoramas/TP(6).jpg",
       hotspots: [
         { roomId: "master_room", label: "Master Room", position: "5 0.9 0", rotation: "0 0 0" },
       ],
@@ -71,7 +71,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "bathroom",
       title: "BATHROOM",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/TP(3).jpg",
+      url: "/images/panoramas/TP(3).jpg",
       hotspots: [
         { roomId: "lobby", label: "Lobby", position: "4.9 0.4 0.7", rotation: "0 0 0" },
       ],
@@ -79,7 +79,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "laundry_room",
       title: "LAUNDRY ROOM",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/TP(5).jpg",
+      url: "/images/panoramas/TP(5).jpg",
       hotspots: [
         { roomId: "kitchen_living_room", label: "Kitchen", position: "2.5 -0.1 4.3", rotation: "0 0 0" },
       ],
@@ -87,7 +87,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "toilette",
       title: "TOILETTE",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/TP(4).jpg",
+      url: "/images/panoramas/TP(4).jpg",
       hotspots: [
         { roomId: "kitchen_living_room", label: "Kitchen & Living", position: "-1.7 0.2 2.5", rotation: "0 0 0" },
       ],
@@ -97,7 +97,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "entrance",
       title: "ENTRANCE",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/LaP(2).jpg",
+      url: "/images/panoramas/LaP(2).jpg",
       hotspots: [
         { roomId: "toilette", label: "TOILETTE", position: "-4.9 0.7 -0.4", rotation: "0 0 0" },
         { roomId: "kitchen_living_room", label: "Kitchen & Living", position: "-4.3 0.3 2.5", rotation: "0 0 0" },
@@ -108,7 +108,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "living_room",
       title: "LIVING ROOM",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/LaP(7).jpg",
+      url: "/images/panoramas/LaP(7).jpg",
       hotspots: [
         { roomId: "kitchen_living_room", label: "Kitchen & Living", position: "5 0.6 0.1", rotation: "0 0 0" },
         { roomId: "entrance", label: "Entrance", position: "2 0.1 -4.6", rotation: "0 0 0" },
@@ -117,7 +117,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "kitchen_living_room",
       title: "KITCHEN & LIVING ROOM",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/LaP(3).jpg",
+      url: "/images/panoramas/LaP(3).jpg",
       hotspots: [
         { roomId: "living_room", label: "Living Room", position: "-5 0.3 0.5", rotation: "0 0 0" },
         { roomId: "laundry", label: "Laundry", position: "0 0 -5", rotation: "0 0 0" },
@@ -126,7 +126,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "bedroom",
       title: "BEDROOM",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/LaP(1).jpg",
+      url: "/images/panoramas/LaP(1).jpg",
       hotspots: [
         { roomId: "bathroom", label: "Bathroom", position: "-1.8 -1.5 -4.4", rotation: "0 0 0" },
         { roomId: "entrance", label: "Entrance", position: "-1.9 0.5 -5", rotation: "0 0 0" },
@@ -135,7 +135,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "bathroom",
       title: "BATHROOM",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/LaP(4).jpg",
+      url: "/images/panoramas/LaP(4).jpg",
       hotspots: [
         { roomId: "bedroom", label: "Bedroom", position: "3.5 0.6 -0.6", rotation: "0 0 0" },
       ],
@@ -143,7 +143,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "laundry",
       title: "LAUNDRY",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/LaP(6).jpg",
+      url: "/images/panoramas/LaP(6).jpg",
       hotspots: [
         { roomId: "kitchen_living_room", label: "Kitchen & Living", position: "-0.1 -0.2 5", rotation: "0 0 0" },
         { roomId: "entrance", label: "Entrance", position: "-2.6 0.7 -4.2", rotation: "0 0 0" },
@@ -152,7 +152,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "toilette",
       title: "TOILETTE",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/LaP(5).jpg",
+      url: "/images/panoramas/LaP(5).jpg",
       hotspots: [
         { roomId : "entrance", label: "Entrance", position: "-2.9 1 0.7", rotation: "0 0 0" },
       ],
@@ -162,7 +162,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "living_room",
       title: "LIVING ROOM",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/LP(1).jpg",
+      url: "/images/panoramas/LP(1).jpg",
       hotspots: [
         { roomId: "kitchen_living_room", label: "Kitchen & Living", position: "5 0.2 0.6", rotation: "0 0 0" },
       ],
@@ -170,7 +170,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "kitchen_living_room",
       title: "KITCHEN & LIVING ROOM",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/LP(6).jpg",
+      url: "/images/panoramas/LP(6).jpg",
       hotspots: [
         { roomId: "bedroom", label: "BEDROOM", position: "4.1 1.1 -2.7", rotation: "0 0 0" },
         { roomId: "living_room", label: "Living Room", position: "-4.7 0.5 1.5", rotation: "0 0 0" },
@@ -180,7 +180,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "bedroom",
       title: "BEDROOM",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/LP(5).jpg",
+      url: "/images/panoramas/LP(5).jpg",
       hotspots: [
         { roomId: "dressing_room", label: "Dressing Room", position: "0.3 0.5 -3", rotation: "0 0 0" },
         { roomId: "living_room", label: "Living Room", position: "-2.9 0.7 -4", rotation: "0 0 0" },
@@ -189,7 +189,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "bathroom_1",
       title: "BATHROOM 1",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/LP(3).jpg",
+      url: "/images/panoramas/LP(3).jpg",
       hotspots: [
         { roomId: "kitchen_living_room", label: "Kitchen & Living", position: "-0.5 0.1 1.8", rotation: "0 0 0" },
       ],
@@ -197,7 +197,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "bathroom_2",
       title: "BATHROOM 2",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/LP(2).jpg",
+      url: "/images/panoramas/LP(2).jpg",
       hotspots: [
         { roomId: "dressing_room", label: "Dressing Room", position: "-1 0.2 1.8", rotation: "0 0 0" }, 
       ],
@@ -205,7 +205,7 @@ export const APARTMENT_PANORAMAS = {
     {
       id: "dressing_room",
       title: "DRESSING ROOM",
-      url: "https://pub-7f8441f955d040ad9b27496b0af87b7a.r2.dev/panoramas/LP(4).jpg",
+      url: "/images/panoramas/LP(4).jpg",
       hotspots: [
         { roomId: "bathroom_2", label: "BATHROOM 2", position: "0 0.2 -2.5", rotation: "0 0 0" },
         { roomId: "bedroom", label: "BEDROOM", position: "-4.6 0.8 1.8", rotation: "0 0 0" },
